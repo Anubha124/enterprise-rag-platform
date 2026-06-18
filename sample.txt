@@ -1,0 +1,3 @@
+Artificial Intelligence is transforming software engineering.
+
+RAG systems combine retrieval and generation to answer questions using external documents.
