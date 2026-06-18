@@ -185,7 +185,3 @@ Both metrics were computed for hybrid retrieval alone, then again after cross-en
 ## Contributing
 
 Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](../../issues) or open a pull request.
-
-## License
-
-_Add your preferred license here (e.g. MIT, Apache 2.0) and include a `LICENSE` file in the repo root._
